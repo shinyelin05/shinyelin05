@@ -38,7 +38,7 @@
     <br>
 ![824c0fbe1f4a7b815b05419dcf515d71](https://user-images.githubusercontent.com/77713669/220584008-8dd0b18b-a7be-4129-ac86-d0d08983935d.gif)
 
-<h3 align="center">🌱 Follow Me 🌱</h3>
+<h3 align="center">🌱 Follow 🌱</h3>
 <p align="center">
  
   <a href="https://www.instagram.com/yelin_0411/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="/></a>
