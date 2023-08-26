@@ -28,10 +28,10 @@
    <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>
   <br>
   
-   <h3 align="center">🫧 What I'm interested in these days. | 제가 요즘 관심있는 것들. 🫧</h3>
+   <h3 align="center">🫧 What I'm interested in these days. | 수상 목록 🫧</h3>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/></a>
+2022 STAC 엔터테이먼트 부문 최우수상
+2023 GIGDC 중고등부 제작 부문 금상
   <br>
     <br>
 ![824c0fbe1f4a7b815b05419dcf515d71](https://user-images.githubusercontent.com/77713669/220584008-8dd0b18b-a7be-4129-ac86-d0d08983935d.gif)
