@@ -11,7 +11,7 @@
 
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="90" height="90" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="90" height="90" /></div>
   
-  ### I'm learning about game development! | 저는 게임 개발에 대하여 배우고 있습니다! 
+  ### I'm learning about game development! | 저는 게임 개발에 대하여 배우고 있습니다!!
   ### What I use. 🤷‍♀️👩‍💻 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src="https://img.shields.io/badge/Unity-808080?style=flat-square&logo=Unity&logoColor=white"/></a>
   
   #
