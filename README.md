@@ -31,6 +31,7 @@
    <h3 align="center">🫧 What I'm interested in these days. | 수상 목록 🫧</h3>
 
 2022 STAC 엔터테이먼트 부문 최우수상
+
 2023 GIGDC 중고등부 제작 부문 금상
   <br>
     <br>
